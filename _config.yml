@@ -1,1 +1,9 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
 theme: jekyll-theme-minimal
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
