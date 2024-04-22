@@ -1,7 +1,7 @@
 # IMGD4000Portfolio
 
 I was part of the development team for Spaceward for IMGD 4000.  
-Here is the website for the game: https://datapointbeing.github.io/Spaceward-Website/  
+Here is the website for the game: [https://datapointbeing.github.io/Spaceward-Website/](https://datapointbeing.github.io/Spaceward-Website/)  
 
 My key roles during development centered around the movement mechanics, level/gameplay design, deployable build testing  
 
