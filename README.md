@@ -13,6 +13,7 @@ The biggest challenge faced in those implementations was with coyote time. The c
 My solution for this challenge was to check for what type of jumping that player had unlocked and if they had used the air jump. Since by default you can't jump in the air, this just meant resetting the jump count to default. With double jump however two possible values needed to be in place to allow for the player to always be able to use at least one air jump regardless of if they jumped during the coyote time window.  
 
 Here is the blueprint script that updates the player's unlocking of double jump along with enabling coyote time:  
+
 ![image](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/46417a20-07a9-49ca-b731-250ded5280c4)
 
 Some smaller challenges were time management for implementing art assets and creating a deployable build of the game. The solution we came to for art assets was to increase the amount of communication and updates between the Tech and Art teams as well as instituting a cutoff for when we'd stop adding or changing elements that would require additional assets. The deployable build issues came from some specific blueprint functions only working within a development deployment and not a shipping one. We tried to avoid using these and utilized development deployements when needed. The key difference between developement and shipping deployements are soft safety features are removed in lieu of better performance. Our game was optimized enough to not need the additional performance.  
