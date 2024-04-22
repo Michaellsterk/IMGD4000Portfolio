@@ -1,4 +1,4 @@
-# IMGD4000Portfolio
+# Michael Sterk - Development Portfolio
 
 I was part of the development team for Spaceward for IMGD 4000.  
 Here is the website for the game: [https://datapointbeing.github.io/Spaceward-Website](https://datapointbeing.github.io/Spaceward-Website)  
