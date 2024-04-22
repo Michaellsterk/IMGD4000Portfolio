@@ -1,3 +1,4 @@
+title: Michael Sterk - Development Portfolio
 # remote_theme: pages-themes/midnight@v0.2.0
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -8,4 +9,3 @@ relative_links:
   collections: true
 include:
   - README.md
-title: "Michael Sterk - Development Portfolio"
