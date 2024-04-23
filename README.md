@@ -16,6 +16,11 @@ Here is the blueprint script that updates the player's unlocking of double jump 
 
 ![image](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/46417a20-07a9-49ca-b731-250ded5280c4)
 
+An issue that was brought up after this implementation, during alpha testing, was the dash being too fast. To fix this I made dashing lower the Falling Lateral Friction (Air Resistance) of the player. Then reset it to default when jumping or landing on the ground. This coupled with lowering the base power of the dash worked to be a similar distance but not be as jarring.  
+
+![image](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/4a08eb23-99f0-435b-b9f3-6f438e0bc7fa)
+![image](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/6132276f-814a-4bdd-a951-da782b049bd5)
+
 Some smaller challenges were time management for implementing art assets and creating a deployable build of the game. The solution we came to for art assets was to increase the amount of communication and updates between the Tech and Art teams as well as instituting a cutoff for when we'd stop adding or changing elements that would require additional assets. The deployable build issues came from some specific blueprint functions only working within a development deployment and not a shipping one. We tried to avoid using these and utilized development deployements when needed. The key difference between developement and shipping deployements are soft safety features are removed in lieu of better performance. Our game was optimized enough to not need the additional performance.  
 
 # [Get clarity on what to include for architectural diagrams]
