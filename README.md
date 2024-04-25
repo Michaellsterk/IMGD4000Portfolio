@@ -25,7 +25,7 @@ Some smaller challenges were time management for implementing art assets and cre
 
 **Final Project Architecture**  
 Here is a diagram of the rough architecture behind the beta version of the game  
-![IMGD4000 Game Overview](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/97afc185-001a-4071-8074-e7c8206bab56)  
+![IMGD4000 Game Overview](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/540adf32-98e2-48a9-914d-e01c695a1049)
 
 Here is a logic flowchart of the movement mechanics  
 ![IMGD 4000 Movement Logic](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/b654f996-74d3-4725-8beb-4db9eb017f85)
