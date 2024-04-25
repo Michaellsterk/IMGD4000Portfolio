@@ -27,7 +27,8 @@ Some smaller challenges were time management for implementing art assets and cre
 Here is a diagram of the rough architecture behind the beta version of the game  
 ![IMGD4000 Game Overview](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/97afc185-001a-4071-8074-e7c8206bab56)  
 
-[Insert diagram of logic behind movement programming (simplified blueprints)]
+Here is a logic flowchart of the movement mechanics  
+![IMGD 4000 Movement Logic](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/b654f996-74d3-4725-8beb-4db9eb017f85)
 
 Overall the main things learned was to keep constant communication between all team members. Use the live variable viewing features of Unreal Engine 5 to see exactly what is changing in the background when different functions are called to help debug problems. And lastly to ensure that a deployable build of our game currently possible with what we created.  
 
