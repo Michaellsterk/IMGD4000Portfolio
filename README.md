@@ -23,7 +23,11 @@ An issue that was brought up after this implementation, during alpha testing, wa
 
 Some smaller challenges were time management for implementing art assets and creating a deployable build of the game. The solution we came to for art assets was to increase the amount of communication and updates between the Tech and Art teams as well as instituting a cutoff for when we'd stop adding or changing elements that would require additional assets. The deployable build issues came from some specific blueprint functions only working within a development deployment and not a shipping one. We tried to avoid using these and utilized development deployements when needed. The key difference between developement and shipping deployements are soft safety features are removed in lieu of better performance. Our game was optimized enough to not need the additional performance.  
 
-# [Get clarity on what to include for architectural diagrams]
+**Final Project Architecture**  
+Here is a diagram of the rough architecture behind the beta version of the game  
+![IMGD4000 Game Overview](https://github.com/Michaellsterk/IMGD4000Portfolio/assets/34323970/97afc185-001a-4071-8074-e7c8206bab56)  
+
+[Insert diagram of logic behind movement programming (simplified blueprints)]
 
 Overall the main things learned was to keep constant communication between all team members. Use the live variable viewing features of Unreal Engine 5 to see exactly what is changing in the background when different functions are called to help debug problems. And lastly to ensure that a deployable build of our game currently possible with what we created.  
 
